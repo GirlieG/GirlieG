@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋 I'm Girlie Garcia</h1>
 <h3 align="center">Customer Support Virtual Assistant | IT Graduate | Administrative Support Specialist | Aspiring Developer</h3>
