@@ -6,7 +6,6 @@
 <p align="center">
 Dedicated IT graduate with 4+ years experience in customer support, CRM management, and administrative operations. Passionate about technology, problem-solving, and helping businesses deliver excellent customer experiences.
 </p>
----
 
 ## 👩‍💻 About Me
 
